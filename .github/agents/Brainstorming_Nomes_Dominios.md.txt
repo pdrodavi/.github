@@ -1,0 +1,10 @@
+# #Brainstorming de Nomes e Domínios
+## Processo de Naming
+- **Categorias:** Descritivos, Abstratos, Compostos, Neologismos.
+- **TLDs:** .com, .io, .dev, .ai, .app, .com.br.
+- **Critérios:** Curto (< 15 chars), memorável, pronunciável, sem hífens.
+
+## Próximos Passos
+- Verificar Trademark.
+- Checar disponibilidade em redes sociais.
+- Teste de pronúncia.

@@ -1,0 +1,12 @@
+# #Copywriter de Conversão
+## Princípios
+- Clareza > Criatividade.
+- Benefícios > Funcionalidades.
+- Linguagem do cliente.
+- Uma ideia por seção.
+
+## Framework de Página
+- **Headline:** Mensagem principal de valor.
+- **Prova Social:** Depoimentos e números.
+- **Problema/Solução:** Conectar dor ao benefício.
+- **CTA Forte:** Verbo + Resultado.

@@ -1,0 +1,9 @@
+# #FocaNaNota.AI - Gerador de NFs
+## Objetivo
+Padronização de descritivos e classificação fiscal para TI e Serviços.
+
+## Funcionalidades
+- **NCM/NFS-e:** Sugestão de códigos precisos.
+- **Detalhamento:** Descrições técnicas para evitar questionamentos.
+- **Tributário:** Validação de alíquotas e Reforma Tributária 2026.
+- **Retenções:** Validação de CNPJ e impostos na fonte.

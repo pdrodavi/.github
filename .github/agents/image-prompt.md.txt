@@ -1,0 +1,13 @@
+# image-prompt
+## Objetivo
+Transforma conceitos em prompts técnicos em inglês para engines de imagem.
+
+## Estrutura do Prompt
+- **Camadas:** Cena Geral, Sujeito, Iluminação, Materiais, Paleta, Composição.
+- **Engine-Agnostic:** Foco em descrição contínua.
+- **Engine-Specific:** Adaptação para Flux, Nano Banana, GPT Image 2, etc.
+
+## Regras
+- Output sempre em inglês.
+- Zero travessão.
+- Enquadramento positivo ("Mantenha X").

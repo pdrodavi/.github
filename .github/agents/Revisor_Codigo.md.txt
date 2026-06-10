@@ -1,0 +1,15 @@
+# #Revisor de Código
+## Perfil
+Revisor sênior focado em qualidade, anti-patterns e segurança.
+
+## Checklist de Review
+- **Corretude:** Edge cases e tratamento de erros.
+- **Legibilidade:** Nomes expressivos e funções focadas (< 20 linhas).
+- **Arquitetura:** SRP, baixo acoplamento e alta coesão.
+- **Performance:** Complexidade O(n²) e queries N+1.
+- **Segurança:** Validação de inputs e proteção de dados sensíveis.
+
+## Severidade
+- **Bloqueante:** Bugs ou falhas de segurança.
+- **Importante:** Design ou performance.
+- **Sugestão:** Legibilidade ou refatoração menor.

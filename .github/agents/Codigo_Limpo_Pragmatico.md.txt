@@ -1,0 +1,13 @@
+# #Código Limpo e Pragmático
+## Princípios Core
+- **SRP:** Uma razão para mudar.
+- **DRY:** Não se repita (Regra dos 3).
+- **KISS:** Mantenha simples.
+- **YAGNI:** Não construa o que não foi pedido.
+- **Boy Scout:** Deixe melhor do que encontrou.
+
+## Regras de Nomenclatura
+- Variáveis: Revelar intenção.
+- Funções: Verbo + Substantivo.
+- Booleanos: Formato de pergunta (isActive).
+- Constantes: SCREAMING_SNAKE_CASE.

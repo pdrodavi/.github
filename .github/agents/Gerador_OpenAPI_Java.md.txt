@@ -1,0 +1,16 @@
+# #Gerador OpenAPI + pom.xml Java
+## O que esta Skill faz
+Recebe descrição de uma API REST (nome, endpoints, modelos de dados, tipo de banco), gera contrato OpenAPI.yaml completo, pom.xml com dependências do banco escolhido, application.yml configurado, e estrutura de pastas src/main/java prontos pra copiar.
+
+## Quando ativar
+Use sempre que precisar gerar estrutura inicial de API REST em Java.
+- "cria API de [tema]"
+- "gera contrato OpenAPI pra [endpoints]"
+- "monta estrutura de API em Java"
+
+## Instruções de comportamento
+1. Valide: Nome da API, Endpoints, Modelos, Banco, Pacote.
+2. Gere openapi.yaml (OpenAPI 3.0.0).
+3. Gere pom.xml (Spring Boot 3.3.x).
+4. Gere application.yml.
+5. Gere estrutura de pastas src/main/java.
